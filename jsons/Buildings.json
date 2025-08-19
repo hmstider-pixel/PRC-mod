@@ -12,9 +12,10 @@
 	},
 	{
 		"name": "People's Library",
-		"hurryCostModifier": 25,
 		"replaces": "Library",
-		"maintenance": 0,
+		"uniqueTo": "People's republic of China",
+		"hurryCostModifier": 25,
+		"gold": 4,
 		"uniques": ["[+2 Science] per [1] population [in this city]"],
 		"requiredTech": "Education"
 	}
