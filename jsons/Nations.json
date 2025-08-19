@@ -29,7 +29,7 @@
 		"outerColor": [100,16,16],
 		"innerColor": [255,220,180],
 		"unique name" : "Chinese enlightenment",
-		"uniques" : ["[+100 Production] [in all cities]","[-100]% maintenance costs <for [All] units>","[+500]% Strength <for [All] units> <during a Golden Age>]","[+500]% Golden Age length","[+200% Gold] [in all cities]","[-100]% unhappiness from the number of cities", "[-100]% Unhappiness from [Population] [in all cities]"],
+		"uniques" : ["[+30 Production] [in all cities]","[-100]% maintenance costs <for [All] units>","[+500]% Strength <for [All] units> <during a Golden Age>]","[+1000]% Golden Age length","[+20 Gold] [in all cities]","[-100]% unhappiness from the number of cities", "[-100]% Unhappiness from [Population] [in all cities]","[100]% Food is carried over after population increases [in all cities]","[+1 gold] per [1] population [in all cities]"],
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
 			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
 			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang",],
