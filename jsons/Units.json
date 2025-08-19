@@ -1,4 +1,5 @@
-{
+[
+	{
 		"name": "PLA tank",
 		"unitType": "Sword",
 		"uniqueTo": "People's republic of china",
@@ -10,3 +11,4 @@
 		"uniques": ["Can move after attacking"],
 		"attackSound": "tankshot"
 	},
+]
