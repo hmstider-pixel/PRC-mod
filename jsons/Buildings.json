@@ -3,11 +3,11 @@
 		"name": "State market",
 		"replaces": "Market",
 		"uniqueTo": "People's republic of china",
-		"gold": 2,
+		"gold": 20,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["[+20 Gold]"],
+		"uniques": ["[+1 happiness] per [2] population [in this city]"],
 		"requiredTech": "Currency"
 	},
 	{
