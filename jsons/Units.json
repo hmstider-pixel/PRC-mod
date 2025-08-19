@@ -1,16 +1,12 @@
-[
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-	{
-		"name": "PLA navy ship",
-		"unitType": "Melee Water",
+{
+		"name": "PLA tank",
+		"unitType": "Sword",
 		"uniqueTo": "People's republic of china",
-		"replaces": "Trireme",
-		"movement": 10,
-		"strength": 75,
-		"cost": 105,
-		"requiredTech": "Sailing",
-		"attackSound": "nonmetalhit"
+		"replaces": "Tank",
+		"movement": 9,
+		"strength": 120,
+		"cost": 375,
+		"requiredTech": "Paid Service",
+		"uniques": ["Can move after attacking"],
+		"attackSound": "tankshot"
 	},
-]
