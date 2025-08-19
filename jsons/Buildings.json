@@ -1,4 +1,5 @@
-{
+[
+	{
 		"name": "State market",
 		"replaces": "Market",
 		"uniqueTo": "People's republic of china",
@@ -8,4 +9,5 @@
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+20 Gold]"],
 		"requiredTech": "Currency"
-}
+	}
+]
