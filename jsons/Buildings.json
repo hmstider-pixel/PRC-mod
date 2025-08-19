@@ -9,5 +9,13 @@
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["[+20 Gold]"],
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "People's Library",
+		"hurryCostModifier": 25,
+		"replaces": "Library",
+		"maintenance": 0,
+		"uniques": ["[+2 Science] per [1] population [in this city]"],
+		"requiredTech": "Education"
 	}
 ]
